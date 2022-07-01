@@ -1,0 +1,1 @@
+web: gunicorn asilo.wsgi --log-file -
